@@ -1,0 +1,2 @@
+- Identificar fatores que afetam o tempo de acesso à discos;
+- Propiciar os fundamentos de organização de disco que motivam a necessidade de _estruturas complexas_ de acesso à memória.

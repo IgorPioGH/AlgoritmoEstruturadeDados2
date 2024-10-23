@@ -1,0 +1,3 @@
+- Estudar os fundamentos de sistema de arquivos
+- Ver como a linguagem C trabalha com arquivos
+- *Os exemplos consideram a linguagem em C no ambiente de um sistema operacional Unix like*

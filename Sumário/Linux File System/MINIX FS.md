@@ -1,0 +1,4 @@
+- Foi uma adaptação do file system MINIX, que foi o primeiro file system do Linux
+- MINIX corresponde a um arquivo em C, que inclui o kernel do s.o + o gerenciador + o file system
+- _Objetivo_: seu um sistema muito confiável e auto-curável
+- Sua popularidade caiu devido ao surgimento do _ext2_
